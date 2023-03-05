@@ -27,6 +27,7 @@ Before running the codes, please make sure the environment is set proporly accor
 - `Python 3.7+`
 - `FAISS-cpu`
 
+The used dataset and preprocessing code are available at [link](https://drive.google.com/file/d/19e7o7_sa4L_HDiJh8oA3VhY76apf4Rid).
 
 ## Quick Start
 Different experiments can be conducted by passing different parameters to `main.py`.
